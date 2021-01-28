@@ -4,7 +4,7 @@
 
 Hi, I'm Alfredo Medrano, a JavaScript full stack developer from Mexico.
 
-- 🔭 I’m currently working in various national and international projects
+- 🔭 I’m currently working in some national and international projects
 - 🌱 I’m currently learning Python and Golang
 <br />
 
