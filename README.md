@@ -4,6 +4,14 @@
 
 Hi, I'm Alfredo Medrano, a JavaScript full stack developer from Mexico.
 
+### Skills
+- Python scripting
+- Web application development using React
+- Backend services development using NodeJS
+- Progresive web application development
+- Mobile Application development using React Native
+- Some cloud skills using GCP
+- Database managment (SQL and NoSQL)
 
 **Languages and Tools:**
 
