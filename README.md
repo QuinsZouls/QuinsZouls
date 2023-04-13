@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Alfredo Medrano, a JavaScript full stack developer from Mexico.
+Hi, I'm Alfredo Medrano, a Software Engineer from Mexico.
 
 ### Skills
 - Python scripting
